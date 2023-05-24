@@ -18,3 +18,6 @@ Imagine a publishing company which does marketing for book and audio cassette ve
 
 #### Asignment 4 :
 Write a C++ program that creates an output file, writes information to it, closes the file, open it again as an input file and read the information from the file.
+
+#### Assignment 5 :
+Write a function template for selection sort that inputs, sorts and outputs an integer array and a float array.
