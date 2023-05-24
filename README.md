@@ -21,3 +21,6 @@ Write a C++ program that creates an output file, writes information to it, close
 
 #### Assignment 5 :
 Write a function template for selection sort that inputs, sorts and outputs an integer array and a float array.
+
+#### Assignment 6 :
+Write C++ program using STL for sorting and searching user defined records such as Item records (Item code, name, cost, quantity etc) using vector container.
